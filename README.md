@@ -29,5 +29,5 @@ Email: canoy.john812@gmail<br>
 Facebook: John Lloyd Canoy
 
 
-# -- Creating something of NOTHING --
+# -- Creating something out of NOTHING --
 
