@@ -9,21 +9,22 @@ Digital Artist | Illustrator | 3D Artrist
 
 # Tech Stack:
 
-## Languages & Framework
+### Languages & Framework
 
 React | Python | Javascript | Java | Tailwind | TypeScript | SpringBoot
 
-## Software Utilized 
+### Software Utilized 
 
 VSCode | Figma | Photoshop | Canva | ClipStudioPaint | MySQL | PosgreSQL
 
-## Currently Studying 
+### Currently Studying 
 
 AI/ML <br>
 Integrating codes into Illustraion<br>
 Staring a StartUp
 
 # CONNECT WITH ME: 
-## Email: canoy.john812@gmail
+Email: canoy.john812@gmail
+Facebook: John Lloyd Canoy
 
 
