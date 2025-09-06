@@ -1,5 +1,6 @@
 # Hi there 👋, I'm John Lloyd D. Canoy(JL)
-IT Student | Illustrator | Graphic Artist 
+
+I am currently based in Cagayan de Oro City, Philippines, currently pursuing a Bachelor of Science in Information Technology. My journey blends two creative worlds coding and digital art with a vision to merge technology and design into transformative, user-centric experiences. I aspire to create solutions that are not only functional but also visually compelling, bridging the gap between logic and creativity to shape the future of digital interaction.
 
 #  About Me:
 IT Student | Illustrator | Graphic Artist <br>
