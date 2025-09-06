@@ -25,7 +25,9 @@ Integrating codes into Illustraion<br>
 Staring a StartUp
 
 # CONNECT WITH ME: 
-Email: canoy.john812@gmail
+Email: canoy.john812@gmail<br>
 Facebook: John Lloyd Canoy
 
+
+# -- Creating something of NOTHING --
 
