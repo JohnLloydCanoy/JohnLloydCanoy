@@ -24,7 +24,7 @@ AI/ML <br>
 Integrating codes into Illustraion<br>
 Staring a StartUp
 
-# CONNECT WITH ME: 
+## CONNECT WITH ME: 
 Email: canoy.john812@gmail<br>
 Facebook: John Lloyd Canoy
 
