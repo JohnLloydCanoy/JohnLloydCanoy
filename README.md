@@ -23,6 +23,7 @@ VSCode | Figma | Photoshop | Canva | ClipStudioPaint | MySQL | PosgreSQL
 AI/ML <br>
 Integrating codes into Illustraion<br>
 Staring a StartUp
+I cant do it anymore
 
 ## CONNECT WITH ME: 
 Email: canoy.john812@gmail<br>
