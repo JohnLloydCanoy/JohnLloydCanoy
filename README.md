@@ -36,5 +36,5 @@ STAYNET- A finding a boarding house application for the Cagayan de Oro City
 
 # -- Creating something out of NOTHING --
 
-# HALLO
+# 
 
