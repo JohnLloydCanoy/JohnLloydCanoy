@@ -28,24 +28,28 @@
 
 ### 🚀 About Me
 
-I am a passionate **Information Technology student** at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro City. 
+I am a passionate **Information Technology student** at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro City.
 
 My journey is defined by a unique blend of **software engineering** and **digital artistry**. I don't just write code; I design experiences. Whether I'm building full-stack web applications or creating digital illustrations, my goal is to build solutions that are both functional and visually compelling.
 
-* 🔭 **Current Project:** Building **STAYNET**, a localized housing solution for CDO.
-* 🌱 **Learning:** Advanced AI/ML integration & Startup Architecture.
-* 🎨 **Hobbies:** Digital Art (Clip Studio Paint), Anime, and Gaming.
+* 🔭 **Current Focus:** Building **STAYNET** and exploring AI Startup ideas like **Project A.N.I.**
+* 🌱 **Learning:** Advanced Full-Stack Architecture & Machine Learning (Python).
+* 🎨 **Hobbies:** Digital Art (Clip Studio Paint), Graphic Design, and Anime.
 
 ---
 
-### 💼 Featured Project
+### 💼 Featured Projects
 
 #### 🏠 **STAYNET** (In Development)
 > *A comprehensive boarding house finder application designed specifically for Cagayan de Oro City.*
-
 * **Problem:** Students and professionals in CDO struggle to find safe, affordable housing remotely.
 * **Solution:** A centralized platform connecting landlords with tenants using real-time availability.
 * **Tech:** React, MySQL, Spring Boot.
+
+#### 🌾 **Project A.N.I.** (Concept)
+> *AI-driven Agricultural Network Intelligence.*
+* **Goal:** Connecting local farmers directly to markets to maximize profit and reduce waste.
+* **Tech:** Python (AI), Next.js.
 
 ---
 
@@ -68,13 +72,17 @@ My journey is defined by a unique blend of **software engineering** and **digita
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=JohnLloydCanoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnLloydCanoy&theme=radical&hide_border=true" alt="Streak" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLloydCanoy&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnLloydCanoy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnLloydCanoy&theme=radical&hide_border=true)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLloydCanoy&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
 </div>
 
 ---
