@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm John Lloyd D. Canoy
+# 👋 Hi, I'm John Lloyd D.  Canoy
 
 ### IT Student | Full-Stack Developer | Digital Artist
 
@@ -78,7 +78,7 @@ A comprehensive boarding house finder application designed specifically for Caga
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLloydCanoy&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnLloydCanoy&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=JohnLloydCanoy&theme=radical&hide_border=true)
 
 </div>
 
@@ -94,9 +94,9 @@ I believe in the power of creativity and innovation to solve real-world problems
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on interesting projects, discussing tech and art, or just connecting with like-minded individuals! 
+I'm always open to collaborating on interesting projects, discussing tech and art, or just connecting with like-minded individuals!
 
-- 📧 **Email:** [canoy.john812@gmail. com](mailto:canoy.john812@gmail.com)
+- 📧 **Email:** [canoy.john812@gmail.com](mailto:canoy.john812@gmail.com)
 - 💼 **Facebook:** John Lloyd Canoy
 - 🐙 **GitHub:** [@JohnLloydCanoy](https://github.com/JohnLloydCanoy)
 
