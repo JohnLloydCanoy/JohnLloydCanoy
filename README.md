@@ -69,23 +69,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnLloydCanoy&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnLloydCanoy&theme=radical&hide_border=true)
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLloydCanoy&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-</div>
-
----
 
 <div align="center">
 
