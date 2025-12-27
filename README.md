@@ -32,13 +32,19 @@ I am a passionate **Information Technology student** at the **University of Scie
 
 My journey is defined by a unique blend of **software engineering** and **digital artistry**. I don't just write code; I design experiences. Whether I'm building full-stack web applications or creating digital illustrations, my goal is to build solutions that are both functional and visually compelling.
 
-* 🔭 **Current Focus:** Building **STAYNET** and exploring AI Startup ideas like **Project A.N.I.**
-* 🌱 **Learning:** Advanced Full-Stack Architecture & Machine Learning (Python).
+* 🔭 **Current Focus:** Developing **ASAP** and building **STAYNET**.
+* 🌱 **Learning:** Advanced Full-Stack Architecture, AI Agents, & Machine Learning (Python).
 * 🎨 **Hobbies:** Digital Art (Clip Studio Paint), Graphic Design, and Anime.
 
 ---
 
 ### 💼 Featured Projects
+
+#### 📊 **ASAP (Automated Social Analytics Platform)** (Active Development)
+> *A unified dashboard for managing digital presence and analyzing social growth.*
+* **Problem:** Content creators and social managers struggle to track metrics across disconnected platforms like Facebook, Twitter, and TikTok.
+* **Solution:** A centralized analytics hub that aggregates social data, manages content schedules, and provides AI-driven growth insights.
+* **Tech:** Next.js, TypeScript, Supabase, Tailwind CSS, Python (AI).
 
 #### 🏠 **STAYNET** (In Development)
 > *A comprehensive boarding house finder application designed specifically for Cagayan de Oro City.*
@@ -68,8 +74,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
 </div>
 
 ---
-
-
 
 <div align="center">
 
