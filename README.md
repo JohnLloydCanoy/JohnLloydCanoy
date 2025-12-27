@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" alt="Bulbasaur" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" alt="Bulbasaur" />
 
 I am a passionate **Information Technology student** at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro City.
 
@@ -53,4 +53,22 @@ My journey is defined by a unique blend of **software engineering** and **digita
 #### 🏠 **STAYNET** (In Development)
 > *A comprehensive boarding house finder application designed specifically for Cagayan de Oro City.*
 * **Problem:** Students and professionals in CDO struggle to find safe, affordable housing remotely.
-*
+* **Solution:** A centralized platform connecting landlords with tenants using real-time availability.
+* **Tech:** React, MySQL, Spring Boot.
+
+#### 🌾 **Project A.N.I.** (Concept)
+> *AI-driven Agricultural Network Intelligence.*
+* **Goal:** Connecting local farmers directly to markets to maximize profit and reduce waste.
+* **Tech:** Python (AI), Next.js.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Design & Tools** |
+| :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Clip Studio](
