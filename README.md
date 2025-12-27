@@ -28,6 +28,7 @@
 
 ### 🚀 About Me
 
+<img align="right" width="150" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/722.gif" alt="Rowlet" />
 <img align="right" width="180" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" alt="Bulbasaur" />
 
 I am a passionate **Information Technology student** at the **University of Science and Technology of Southern Philippines (USTP)** in Cagayan de Oro City.
