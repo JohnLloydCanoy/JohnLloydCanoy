@@ -51,7 +51,11 @@ My journey is defined by a unique blend of **software engineering** and **digita
 * **Solution:** A centralized analytics hub that aggregates social data, manages content schedules, and provides AI-driven growth insights.
 * **The Core:** ASAP is not just an analytics viewer; it is an intelligent system powered by **Gemini AI**. It acts as a 24/7 social media manager that can "see" your data and "act" on your behalf.
 * **Key Capabilities:***
-* **🤖 Integrated AI Brain:** A conversational interface that allows users to query their database in plain English (e.g., *"How is my engagement compared to last week?"*).
+    * **🤖 Integrated AI Brain:** A conversational interface that allows users to query their database in plain English (e.g., *"How is my engagement compared to last week?"*).
+    * **❤️ Sentiment Analysis:** Uses Python-based NLP to automatically scan comments and detect audience emotions (Positive/Negative/Neutral).
+    * **📈 Intelligent Reporting:** Automated statistical analysis that identifies growth trends and viral anomalies without manual calculation.
+    * **🔐 Secure Architecture:** Built with a scalable architecture separating the "Brain" (Python/FastAPI) from the "Face" (Next.js/React), secured by Row Level Security (RLS).
+* **Tech Stack:** Next.js 14, TypeScript, Python (FastAPI), Google Gemini 2.0, Supabase, Tailwind CSS, VADER Sentiment.
 
 
 #### 🏠 **STAYNET** (In Development)
