@@ -49,7 +49,9 @@ My journey is defined by a unique blend of **software engineering** and **digita
 > *A unified dashboard for managing digital presence and analyzing social growth.*
 * **Problem:** Content creators and social managers struggle to track metrics across disconnected platforms like Facebook, Twitter, and TikTok.
 * **Solution:** A centralized analytics hub that aggregates social data, manages content schedules, and provides AI-driven growth insights.
-* **Tech:** Next.js, TypeScript, Supabase, Tailwind CSS, Python (AI).
+* **The Core:** ASAP is not just an analytics viewer; it is an intelligent system powered by **Gemini AI**. It acts as a 24/7 social media manager that can "see" your data and "act" on your behalf.
+* **Key Capabilities:**
+
 
 #### 🏠 **STAYNET** (In Development)
 > *A comprehensive boarding house finder application designed specifically for Cagayan de Oro City.*
