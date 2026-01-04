@@ -10,7 +10,7 @@
   <a href="mailto:canoy.john812@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://facebook.com">
+  <a href="https://www.facebook.com/johnlloyd.canoy.1004/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://github.com/JohnLloydCanoy">
