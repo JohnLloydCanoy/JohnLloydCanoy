@@ -68,7 +68,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 > *AI-driven Agricultural Network Intelligence.*
 * **Goal:** Connecting local farmers directly to markets to maximize profit and reduce waste.
 * **Tech:** Python (AI), Next.js.
-
+  
 ---
 
 ### 🛠️ Technical Arsenal
