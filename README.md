@@ -74,7 +74,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-
+  
 | **Frontend** | **Backend** | **Design & Tools** |
 | :---: | :---: | :---: |
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
