@@ -42,6 +42,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 <br clear="both" />
 
 ---
+
 ### 💼 Featured Projects
 
 #### 📊 **ASAP (Automated Social Analytics Platform)** (Active Development)
