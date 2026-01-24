@@ -63,7 +63,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 * **Problem:** Students and professionals in CDO struggle to find safe, affordable housing remotely.
 * **Solution:** A centralized platform connecting landlords with tenants using real-time availability.
 * **Tech:** React, MySQL, Spring Boot.
-
+  
 #### 🌾 **Project A.N.I.** (Concept)
 > *AI-driven Agricultural Network Intelligence.*
 * **Goal:** Connecting local farmers directly to markets to maximize profit and reduce waste.
