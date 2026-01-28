@@ -57,7 +57,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
     * **🔐 Secure Architecture:** Built with a scalable architecture separating the "Brain" (Python/FastAPI) from the "Face" (Next.js/React), secured by Row Level Security (RLS).
 * **Tech Stack:** Next.js 14, TypeScript, Python (FastAPI), Google Gemini 2.0, Supabase, Tailwind CSS, VADER Sentiment.
 
-
 #### 🏠 **STAYNET** (In Development)
 > *A comprehensive boarding house finder application designed specifically for Cagayan de Oro City.*
 * **Problem:** Students and professionals in CDO struggle to find safe, affordable housing remotely.
