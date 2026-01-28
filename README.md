@@ -5,7 +5,7 @@
 <p align="center">
   <em>Bridging the gap between <strong>logic</strong> and <strong>creativity</strong>.</em>
 </p>
-
+iuhaiudiuawda
 <p align="center">
   <a href="mailto:canoy.john812@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
