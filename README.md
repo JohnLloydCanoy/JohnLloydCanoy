@@ -91,6 +91,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
 ### 💡 Philosophy
 > *"Creating something out of nothing."*
 
-Last Updated:  **January 18, 2026**
+Last Updated:  **Febuary 6, 2025**
 
 </div>
