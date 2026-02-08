@@ -69,7 +69,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 * **Tech:** Python (AI), Next.js.
 
 * **Version 1:**
-**   * **STACK:** 
+**   * **STACK:**  Streamlit 
 * 
 ---
 
