@@ -92,6 +92,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
 > *"Creating something out of nothing."*
 
 Last Updated:  **Febuary 8, 2026**
-Minu
+Minute
 
 </div>
