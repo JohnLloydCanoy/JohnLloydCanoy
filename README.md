@@ -63,7 +63,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 * **Solution:** A centralized platform connecting landlords with tenants using real-time availability.
 * **Tech:** React, MySQL, Spring Boot.
   
-#### 🌾 **Project A.N.I.** (Concept)
+#### 🌾 **Project A.N.I.** (Concept) [Active Development]
 > *AI-driven Agricultural Network Intelligence.*
 * **Goal:** Connecting local farmers directly to markets to maximize profit and reduce waste.
 * **Tech:** Python (AI), Next.js.
