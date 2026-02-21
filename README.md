@@ -97,6 +97,7 @@ Last Updated:  **Febuary 20, 2026** <br>
 Minutes: **11:23 PM**
 
 # BUILDING SOMETHING OUT OF NOTHING 
+[![committers.top badge](https://user-badge.committers.top/philippines/JohnLloydCanoy.svg)](https://user-badge.committers.top/philippines/JohnLloydCanoy)
 
 </div>
-[![committers.top badge](https://user-badge.committers.top/philippines/JohnLloydCanoy.svg)](https://user-badge.committers.top/philippines/JohnLloydCanoy)
+
