@@ -20,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JohnLloydCanoy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-[![committers.top badge](https://user-badge.committers.top/philippines/JohnLloydCanoy.svg)](https://user-badge.committers.top/philippines/JohnLloydCanoy)
+
 
 </div>
 
@@ -99,3 +99,4 @@ Minutes: **11:23 PM**
 # BUILDING SOMETHING OUT OF NOTHING 
 
 </div>
+[![committers.top badge](https://user-badge.committers.top/philippines/JohnLloydCanoy.svg)](https://user-badge.committers.top/philippines/JohnLloydCanoy)
