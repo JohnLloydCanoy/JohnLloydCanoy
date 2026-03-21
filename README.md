@@ -85,7 +85,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
 
 
 
-</div>
 
 ---
 
