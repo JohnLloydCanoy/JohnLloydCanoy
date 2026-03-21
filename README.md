@@ -54,6 +54,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 | **[STAYNET](#)** <br>*(In Development)* | A comprehensive boarding house finder designed specifically for Cagayan de Oro City. It connects landlords with students and professionals using real-time room availability to make remote housing searches safe and efficient.<br><br> **Tech:** React, MySQL, Spring Boot | [🚧 In Progress](#) | 
 | **[Project A.N.I.](#)** <br>*(Concept / Active)* |  AI-driven Agricultural Network Intelligence aimed at connecting local farmers directly to markets. Designed to maximize agricultural profits and significantly reduce food waste <br><br>**Tech:** Python (AI), Next.js | [💡 Concept](#) | 
 
+
 #### 📊 **ASAP (Automated Social Analytics Platform)** (Active Development)
 > *A unified dashboard for managing digital presence and analyzing social growth.*
 * **Problem:** Content creators and social managers struggle to track metrics across disconnected platforms like Facebook, Twitter, and TikTok.
