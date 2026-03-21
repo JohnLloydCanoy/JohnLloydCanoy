@@ -83,8 +83,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 <div align="center">
   
 | **Frontend** | **Backend** | **Design & Tools** |
-| :---: | :---: | :---: |
-| ![React](https
+
 
 </div>
 
