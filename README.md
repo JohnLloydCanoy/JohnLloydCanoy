@@ -5,7 +5,7 @@
 <header> JL | Full-Stack Developer | USTP | CDO </header>  
 <em>Bridging the gap between <strong>logic</strong> and <strong>creativity</strong>.</em>
 
-<div align="center"
+
 
 
 <p align="center">
