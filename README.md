@@ -75,6 +75,10 @@ My journey is defined by a unique blend of **software engineering** and **digita
 
 ## 🛠 Tech Stack
 
+
+| Category | Technologies |
+| --- | --- |
+
 <div align="center">
   
 | **Frontend** | **Backend** | **Design & Tools** |
