@@ -51,7 +51,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 | Project | About the Project | Deployed Link |
 | :--- | :--- | :--- |
 | **[ASAP (Automated Social Analytics)](#)** <br>*(Active Development)* | A unified dashboard for managing digital presence and analyzing social growth. It acts as an intelligent 24/7 social manager featuring a Gemini AI brain for conversational data queries, NLP sentiment analysis, and automated trend reporting. Built with a secure, separated architecture.<br><br> **Tech:** Next.js 14, TypeScript, Python (FastAPI), Supabase, Tailwind CSS |  [🚧 In Progress](#) | 
-| **[STAYNET](#)** <br>*(In Development)* |
+| **[STAYNET](#)** <br>*(In Development)* | A comprehensive boarding house finder designed specifically for Cagayan de Oro City. It connects landlords with students and professionals using real-time room availability to make remote housing searches safe and efficient.<br><br>
 
 #### 📊 **ASAP (Automated Social Analytics Platform)** (Active Development)
 > *A unified dashboard for managing digital presence and analyzing social growth.*
