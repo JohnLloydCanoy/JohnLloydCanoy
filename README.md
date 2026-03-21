@@ -2,13 +2,11 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I'm+John+Lloyd+D.+Canoy;IT+Student+%40+USTP+CDO;Full-Stack+Developer;" alt="Typing SVG" />
 
-<h1> JL | Full-Stack Developer | USTP | CDO </h1>
+<h1> JL | Full-Stack Developer | USTP | CDO </h1>  
+<em>Bridging the gap between <strong>logic</strong> and <strong>creativity</strong>.</em>
 
 <div align="center"
 
-<p align="center">
-  <em>Bridging the gap between <strong>logic</strong> and <strong>creativity</strong>.</em>
-</p>
 
 <p align="center">
   <a href="mailto:canoy.john812@gmail.com">
