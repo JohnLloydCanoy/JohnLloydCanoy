@@ -2,7 +2,7 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=I'm+John+Lloyd+D.+Canoy;IT+Student+%40+USTP+CDO;Full-Stack+Developer;" alt="Typing SVG" />
 
-<header> JL | Full-Stack Developer | USTP | CDO </header>  
+<p align="center">  JL | Full-Stack Developer | USTP | CDO </p>  
 <em>Bridging the gap between <strong>logic</strong> and <strong>creativity</strong>.</em>
 
 
