@@ -67,16 +67,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
     * **🔐 Secure Architecture:** Built with a scalable architecture separating the "Brain" (Python/FastAPI) from the "Face" (Next.js/React), secured by Row Level Security (RLS).
 * **Tech Stack:** Next.js 14, TypeScript, Python (FastAPI), Google Gemini 2.0, Supabase, Tailwind CSS, VADER Sentiment.
 
-#### 🏠 **STAYNET** (In Development)
-> *A comprehensive boarding house finder application designed specifically for Cagayan de Oro City.*
-* **Problem:** Students and professionals in CDO struggle to find safe, affordable housing remotely.
-* **Solution:** A centralized platform connecting landlords with tenants using real-time availability.
-* **Tech:** React, MySQL, Spring Boot.
-  
-#### 🌾 **Project A.N.I.** (Concept) [Active Development]
-> *AI-driven Agricultural Network Intelligence.*
-* **Goal:** Connecting local farmers directly to markets to maximize profit and reduce waste.
-* **Tech:** Python (AI), Next.js.
+
 
 ---
 
