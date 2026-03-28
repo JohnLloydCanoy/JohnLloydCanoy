@@ -55,11 +55,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
 | **[Project A.N.I.](#)** <br>*(Concept / Active)* |  AI-driven Agricultural Network Intelligence aimed at connecting local farmers directly to markets. Designed to maximize agricultural profits and significantly reduce food waste <br><br>**Tech:** Python (AI), Next.js | [💡 Concept](#) | 
 | **[Personal Portfolio Website](https://johnlloydcanoy-portfolio.vercel.app)** <br>*(Deployed)* | A highly optimized, fast-loading developer portfolio built to showcase projects, technical skills, and experience. Features a clean, responsive design tailored for an excellent user and developer experience.<br><br>**Tech:** Astro, Tailwind CSS, Vercel | [🌍 Live on Vercel](https://johnlloydcanoy-portfolio.vercel.app) |
 
-#### 📊 **ASAP (Automated Social Analytics Platform)** (Active Development)
-> *A unified dashboard for managing digital presence and analyzing social growth.*
-* **Problem:** Content creators and social managers struggle to track metrics across disconnected platforms like Facebook, Twitter, and TikTok.
-* **Solution:** A centralized analytics hub that aggregates social data, manages 
-
 
 ---
 
