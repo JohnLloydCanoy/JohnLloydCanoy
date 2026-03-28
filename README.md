@@ -60,8 +60,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
 * **Problem:** Content creators and social managers struggle to track metrics across disconnected platforms like Facebook, Twitter, and TikTok.
 * **Solution:** A centralized analytics hub that aggregates social data, manages content schedules, and provides AI-driven growth insights.
 * **The Core:** ASAP is not just an analytics viewer; it is an intelligent system powered by **Gemini AI**. It acts as a 24/7 social media manager that can "see" your data and "act" on your behalf.
-* **Key Capabilities:***
-    * **🤖 Integrated AI Brain:** A conversational interface that allows users to query their database in plain English (e.g., *"How is my engagement compared to last week?"*).
 
 
 
