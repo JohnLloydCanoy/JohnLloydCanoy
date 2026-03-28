@@ -58,11 +58,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
 #### 📊 **ASAP (Automated Social Analytics Platform)** (Active Development)
 > *A unified dashboard for managing digital presence and analyzing social growth.*
 * **Problem:** Content creators and social managers struggle to track metrics across disconnected platforms like Facebook, Twitter, and TikTok.
-* **Solution:** A centralized analytics hub that aggregates social data, manages content schedules, and provides AI-driven growth insights.
-* **The Core:** ASAP is not just an analytics viewer; it is an intelligent system powered by **Gemini AI**. It acts as a 24/7 social media manager that can "see" your data and "act" on your behalf.
-
-
-
+* **Solution:** A centralized analytics hub that aggregates social data, manages 
 ---
 
 ## 🛠 Tech Stack
