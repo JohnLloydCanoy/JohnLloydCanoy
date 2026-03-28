@@ -65,7 +65,7 @@ My journey is defined by a unique blend of **software engineering** and **digita
     * **❤️ Sentiment Analysis:** Uses Python-based NLP to automatically scan comments and detect audience emotions (Positive/Negative/Neutral).
     * **📈 Intelligent Reporting:** Automated statistical analysis that identifies growth trends and viral anomalies without manual calculation.
     * **🔐 Secure Architecture:** Built with a scalable architecture separating the "Brain" (Python/FastAPI) from the "Face" (Next.js/React), secured by Row Level Security (RLS).
-* **Tech Stack:** Next.js 14, TypeScript, Python (FastAPI), Google Gemini 2.0, 
+
 
 
 
