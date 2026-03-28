@@ -63,9 +63,6 @@ My journey is defined by a unique blend of **software engineering** and **digita
 * **Key Capabilities:***
     * **🤖 Integrated AI Brain:** A conversational interface that allows users to query their database in plain English (e.g., *"How is my engagement compared to last week?"*).
     * **❤️ Sentiment Analysis:** Uses Python-based NLP to automatically scan comments and detect audience emotions (Positive/Negative/Neutral).
-    * **📈 Intelligent Reporting:** Automated statistical analysis that identifies growth trends and viral anomalies without manual calculation.
-
-
 
 
 
