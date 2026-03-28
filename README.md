@@ -59,6 +59,8 @@ My journey is defined by a unique blend of **software engineering** and **digita
 > *A unified dashboard for managing digital presence and analyzing social growth.*
 * **Problem:** Content creators and social managers struggle to track metrics across disconnected platforms like Facebook, Twitter, and TikTok.
 * **Solution:** A centralized analytics hub that aggregates social data, manages 
+
+
 ---
 
 ## 🛠 Tech Stack
